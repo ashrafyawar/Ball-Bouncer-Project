@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/botArm.obj-b61cdca8df66e5e236afbc115f8cfa52.mesh"
+
+[deps]
+
+files=[ "res://.import/botArm.obj-b61cdca8df66e5e236afbc115f8cfa52.mesh" ]
+
+source_file="res://botArm.obj"
+dest_files=[ "res://.import/botArm.obj-b61cdca8df66e5e236afbc115f8cfa52.mesh", "res://.import/botArm.obj-b61cdca8df66e5e236afbc115f8cfa52.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/A-316-5_Blender.obj-e6475a11aae7230413bb4b12b0da8f09.mesh"
+
+[deps]
+
+files=[ "res://.import/A-316-5_Blender.obj-e6475a11aae7230413bb4b12b0da8f09.mesh" ]
+
+source_file="res://A-316-5_Blender.obj"
+dest_files=[ "res://.import/A-316-5_Blender.obj-e6475a11aae7230413bb4b12b0da8f09.mesh", "res://.import/A-316-5_Blender.obj-e6475a11aae7230413bb4b12b0da8f09.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

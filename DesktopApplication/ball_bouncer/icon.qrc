@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>ping-pong.png</file>
+        <file>ping-pong.svg</file>
+        <file>ping-pong-layered.svg</file>
+        <file>table-tennis.png</file>
+        <file>table-tennis.svg</file>
+    </qresource>
+</RCC>
